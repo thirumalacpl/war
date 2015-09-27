@@ -29,7 +29,7 @@
 <gap:plugin name="com.chanthu.evri.gcs-file-transfer" version="1.0.0" />
 <gap:plugin name="com.simplec.plugins.externalfiles" version="0.1.14" />
 <gap:plugin name="com.coconutcenter.file-transfer" version="0.4.6" />
- <plugin name="Base64ToPNG" value="org.apache.cordova.Base64ToPNG"/>
+
    <feature name="http://api.phonegap.com/1.0/battery"/>
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
