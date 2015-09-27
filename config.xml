@@ -25,7 +25,7 @@
   <gap:plugin name="org.apache.cordova.inappbrowser"/>
   <gap:plugin name="org.apache.cordova.network-information"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
-<gap:plugin name="cordova-plugin-inappbrowser" source="npm"> 
+
 <gap:plugin name="com.chanthu.evri.gcs-file-transfer" version="1.0.0" />
 <gap:plugin name="com.simplec.plugins.externalfiles" version="0.1.14" />
 <gap:plugin name="com.coconutcenter.file-transfer" version="0.4.6" />
@@ -39,10 +39,7 @@
     <feature name="http://api.phonegap.com/1.0/network"/>
     <feature name="http://api.phonegap.com/1.0/notification"/>
 
-<feature name="OkHttpPlugin">
-                <param name="android-package" value="com.google.cordova.OkHttpPlugin" />
-                <param name="onload" value="true" />
-            </feature>
+
 
   <plugin name="DatePickerPlugin" value="com.bikasv.plugins.datepicker.DatePickerPlugin"/>
 
